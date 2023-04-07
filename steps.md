@@ -19,5 +19,24 @@
   ## Connecting Remotely 
   Once in the bash terminal you will be able to login to your account by typing in $ ssh to the terminal followed by account username@ieng6.ucsd.edu. You will then be 
   prompted to put in your password (do not worry if the letters are not showing up on your screen as you type then in for this part). Once you have successfully put in 
-  password you be logged into your account and ready to work. 
+  password you be logged into your account and ready to work.
+  
+  Login Example:
+  ![Image](BashLogin.png)
+  
+  How your screen should look once logged in:
+  ![Image](BashTerminal.png)
+  
+  ## Trying Some Commands 
+  Once logged in you can start opertaing from the terminal and use any commands you wish. Try testing some of these commands:/
+  * cd 
+  * cd ~
+  * ls -lat 
+  * ls -a
+  * cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+  * cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+
+  Here are some testing examples: 
+  
+  
   
