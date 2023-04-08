@@ -10,7 +10,7 @@
   look something like this.\
   ![Image](VisualStudioCode.png)
   
-  ## Installing Git  
+   Installing Git  
   To remotely connect to the cilents computer you will need to use bash, to use bash on windows you will need to downlaod git first. To downlaod git go to this 
   [page](https://gitforwindows.org/) and follow the instructions. Once git is installed you will be able to access bash from the terminal by clicking down on the arrow
   (as seen in this picture on the far right). 
