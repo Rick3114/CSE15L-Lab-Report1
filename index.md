@@ -2,6 +2,7 @@
 
 ## Accessing Account 
 The first step to logging into your course account is to find your account information. Go to this [link](https://sdacs.ucsd.edu/~icc/index.php). Insert your UCSD username and student ID to login into the website. Once in you can get your get your account username (should be something like cse15l....) and update your password with the on screen instructions. Once this step is complete you are ready to start using the account. 
+![Image](AccountLookup.png)
 
 ## Installing Visual Studio Code 
 To install Visual Studio Code you will need to go to this [page](https://code.visualstudio.com/). Follow the steps presented on the website and download 
@@ -27,16 +28,20 @@ Once in the bash terminal you will be able to login to your account by typing in
 ## Trying Some Commands 
 Once logged in you can start opertaing from the terminal and use any commands you wish. Try testing some of these commands:
 ```
-* cd 
-* cd ~
-* ls -lat 
-* ls -a
-* cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
-* cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+* cd (used to change directories; moves the command prompt into a different folder, and will display the diretory it changed to)
+* cd ~ (used to change directories; moves the command prompt into a different folder, but will not display the diretory it changed to)
+* ls -lat (used to display the content of files and directories that are containned in the current directory)   
+* ls -a (used to dislay all files, including hidden files in the directory)
+* cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/ (cp is used to copy files and directories to another location, in this case /home/linux/ieng6/cs15lsp23/public/hello.txt ~/ is being copied)
+* cat /home/linux/ieng6/cs15lsp23/public/hello.txt (cat is used for concatenating and printing a file, in this case /home/linux/ieng6/cs15lsp23/public/hello.txt)
 ```
 
 **Here are some testing examples:**
 ![Image](BashTesting.png)
+
+**Examples Explained:**\ 
+In the first example we see `ls` displaying the content of files and directories that are contained within the current directory (all the lines up to @User Desktop). In the second example we see  
+
   
   
   
