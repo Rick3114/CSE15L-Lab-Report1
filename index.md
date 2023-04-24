@@ -1,7 +1,7 @@
 # Lab 1 Report 
 
 ## Accessing Account 
-The first step to logging into your course account is to find your account information. Go to this [link](https://sdacs.ucsd.edu/~icc/index.php). Insert your UCSD username and student ID to login into the website. Once in you can get your get your account username (should be something like cse15l....) and update your password with the on screen instructions. Once this step is complete you are ready to start using the account. 
+The first step to logging into your course account is to find your account information. Go to this [page](https://sdacs.ucsd.edu/~icc/index.php). Insert your UCSD username and student ID to login into the website. Once in you can get your get your account username (should be something like cse15l....) and update your password with the on screen instructions. Once this step is complete you are ready to start using the account. 
 ![Image](AccountLookup.png)
 
 ## Installing Visual Studio Code 
