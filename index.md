@@ -40,7 +40,7 @@ Once logged in you can start opertaing from the terminal and use any commands yo
 ![Image](BashTesting.png)
 
 **Examples Explained:** \
-In the first example we see `ls` displaying the content of files and directories that are contained within the current directory (all the lines up to @User Desktop). In the second example we see the usage of `cd ~` which changes directories and since `~` is after `cd` the action is done, but nothing is displayed. Lastly in the last example we see the usage of `ls -lat` similar to `ls` we see that it prints out the content of files and directories. However we do see differences, different files are displayed when each call and `ls - lat` displays less than `ls`.  
+In the first example we see `ls` displaying the content of files and directories that are contained within the current directory (all the lines up to @User Desktop). In the second example we see the usage of `cd ~` which changes directories and since `~` is after `cd` the action is done, but nothing is displayed. Lastly in the last example we see the usage of `ls -lat` similar to `ls` we see that it prints out the content of files and directories. However we do see differences, different files are displayed within the two calls;  `ls - lat` displays less than `ls`.  
 
   
   
